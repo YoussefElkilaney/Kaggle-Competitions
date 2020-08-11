@@ -1,2 +1,2 @@
 # Kaggle Competitions
-Kaggle Competitions - Models 
+Kaggle Competitions - ML Models 
